@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: http://toyosu-jyuku.com/sitemap.xml
+
+# Allow crawling of main content
+Allow: /index.html
+Allow: /index_Version18_with_reviews_3snippets_typoUp_vf_blogger_author-notes_Version4_Version16_Version8.html
+
+# Common crawl delays
+Crawl-delay: 1
